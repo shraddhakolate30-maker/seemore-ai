@@ -1,0 +1,7 @@
+{
+  "name": "SeeMore AI",
+  "description": "Look closer. See more. SeeMore AI turns everyday photos into observation challenges using Gemma open models to train attention, detail detection, and visual reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
